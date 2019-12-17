@@ -67,4 +67,4 @@ https://assetstore.unity.com/packages/3d/environments/swamp-house-1-153759
 
 ## Game Trailer
 
-<coming soon!>
+https://www.youtube.com/watch?v=Vkg9s-cJhRo
