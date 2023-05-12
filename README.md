@@ -1,8 +1,5 @@
 # CSCI 4830 Final Project
 
-Julian Lambert
-Fall 2019
-
 ## Game Overview
 
 This (unnamed) project is designed around the idea of making a game to teach children programming concepts in VR, while having a goal of never explicitly using numbers of symbology of any type during the game itself. This was attempted through the construction of "marble puzzles" in a 3-dimensional space. The player is given template of available pieces (which are essentially pipes) and must use those to construct a track to transport marbles from one destination to another. The marbles themselves possessed a color property, which could have operations done to it according to ink mixing rules (RYB), allowing for more complex goals to be added to courses, such as "turn every marble brown", or "sort these marbles into warm colors and cools colors". These more complex goals can be completed with a number of special "operation" pipes, such as switches that can be toggled, color adders/subtractors, color equality checks, accelerators/decelerators, and many more.
